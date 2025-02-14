@@ -19,10 +19,10 @@ This simulation project provides a visual representation of the Tower of Hanoi p
 ## Screenshots
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-    <img src="https://github.com/yourusername/yourrepo/blob/main/images/image1.png?raw=true" width="48%" />
-    <img src="https://github.com/yourusername/yourrepo/blob/main/images/image2.png?raw=true" width="48%" />
-    <img src="https://github.com/yourusername/yourrepo/blob/main/images/image3.png?raw=true" width="48%" />
-    <img src="https://github.com/yourusername/yourrepo/blob/main/images/image4.png?raw=true" width="48%" />
+    <img src="https://sujan804.github.io/images/TOH/2.png" width="48%" />
+    <img src="https://sujan804.github.io/images/TOH/3.png" width="48%" />
+    <img src="https://sujan804.github.io/images/TOH/4.png" width="48%" />
+    <img src="https://sujan804.github.io/images/TOH/5.png" width="48%" />
 </div>
 
 ## Requirements
