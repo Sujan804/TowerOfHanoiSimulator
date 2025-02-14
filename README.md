@@ -16,19 +16,14 @@ This simulation project provides a visual representation of the Tower of Hanoi p
 - Status display showing the current state (Running, Paused, Finished)
 - Move counter to track the number of moves taken
 
-### Screenshots
+## Screenshots
 
-![Screenshot 1](image1.png)  
-*Caption for Image 1*
-
-![Screenshot 2](image2.png)  
-*Caption for Image 2*
-
-![Screenshot 3](image3.png)  
-*Caption for Image 3*
-
-![Screenshot 4](image4.png)  
-*Caption for Image 4*
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+    <img src="https://github.com/yourusername/yourrepo/blob/main/images/image1.png?raw=true" width="48%" />
+    <img src="https://github.com/yourusername/yourrepo/blob/main/images/image2.png?raw=true" width="48%" />
+    <img src="https://github.com/yourusername/yourrepo/blob/main/images/image3.png?raw=true" width="48%" />
+    <img src="https://github.com/yourusername/yourrepo/blob/main/images/image4.png?raw=true" width="48%" />
+</div>
 
 ## Requirements
 
